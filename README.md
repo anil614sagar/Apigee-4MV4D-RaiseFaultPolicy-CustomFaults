@@ -11,6 +11,7 @@ Above example proxy demonstrates how to restrict query params to target server &
 For example,
 
 API Request 1 - GET /hello - 200 OK
+
 API Request 2 - GET /hello?name=Apigee - 400 BAD REQUEST
 
 
